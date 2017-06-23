@@ -1,0 +1,19 @@
+{
+  "name": "real-maths",
+  "version": "1.0.0",
+  "description": "Maths the real way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/towc/real-maths.git"
+  },
+  "author": "towc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/towc/real-maths/issues"
+  },
+  "homepage": "https://github.com/towc/real-maths#readme"
+}
